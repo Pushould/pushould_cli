@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yu Hoshino"]
   spec.email         = ["yhoshino11@gmail.com"]
 
-  spec.summary       = %q{Pushould Command Line Tool}
-  spec.description   = %q{Pushould Command Line Tool}
+  spec.summary       = %q{Pushould Command Line Interface}
+  spec.description   = %q{Pushould Command Line Interface}
   spec.homepage      = "https://pushould.com"
   spec.license       = "MIT"
 
